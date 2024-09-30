@@ -27,7 +27,7 @@ In the finance analysis, we focused on evaluating sales performance across key m
 
 - **Croma’s Sales Performance :** Tracked Croma’s total sales on a _[monthly](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Croma’s%20Monthly%20Sales%20Performance.csv)_ and _[yearly](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Croma’s%20Yearly%20Sales%20Performance.csv)_ basis, providing insights into sales trends over time.
 
-- **Market Share by Customer :** Analyzed _[market share contributions from different customers](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Market%20Share%20by%20Customers.csv)- to pinpoint key revenue drivers.
+- **Market Share by Customer :** Analyzed _[market share contributions from different customers](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Market%20Share%20by%20Customers.csv)_ to pinpoint key revenue drivers.
 
 - **Top Markets by Region :** Identified the _[top two performing markets in each region](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Top%20Markets%20by%20Region.csv)_, highlighting areas with the strongest sales figures.
 
