@@ -23,21 +23,21 @@
 
 ## Finance Analytics :
 In the finance analysis, we focused on evaluating sales performance across key metrics:
-- **Gross Sales by Product for Croma (FY 2021) :**  Assessed the gross sales for each product sold to Croma during fiscal year 2021.
+- **Gross Sales by Product for Croma (FY 2021) :**  Assessed the _[gross sales for each product sold to Croma during fiscal year 2021.](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Gross%20Sales%20by%20Product%20for%20Croma%20FY%202021.csv)_
 
-- **Croma’s Sales Performance :** Tracked Croma’s total sales on a monthly and yearly basis, providing insights into sales trends over time.
+- **Croma’s Sales Performance :** Tracked Croma’s total sales on a _[monthly](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Croma’s%20Monthly%20Sales%20Performance.csv)_ and _[yearly](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Croma’s%20Yearly%20Sales%20Performance.csv)_ basis, providing insights into sales trends over time.
 
-- **Market Share by Customer :** Analyzed market share contributions from different customers to pinpoint key revenue drivers.
+- **Market Share by Customer :** Analyzed _[market share contributions from different customers](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Market%20Share%20by%20Customers.csv)- to pinpoint key revenue drivers.
 
-- **Top Markets by Region :** Identified the top two performing markets in each region, highlighting areas with the strongest sales figures.
+- **Top Markets by Region :** Identified the _[top two performing markets in each region](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Top%20Markets%20by%20Region.csv)_, highlighting areas with the strongest sales figures.
 
-- **Top Products by Region :** Ranked the top three products in each region, showcasing the best-selling items across various geographic areas.
+- **Top Products by Division :** Ranked the _[top three products in each division](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Top%20Products%20by%20Division.csv)_, showcasing the best-selling items across various geographic areas.
 
 
 ## Supply Chain Analytics :
 In the supply chain analysis, we evaluated the performance of AtliQ Hardware’s forecasting process:
 
-- **Forecast Accuracy Report :** Calculated key metrics, including net error, absolute error, and forecast accuracy, to assess the efficiency and reliability of the company’s forecasting methods.
+- **Forecast Accuracy Report :** Calculated key metrics, including net error, absolute error, and _[forecast accuracy](https://github.com/ahdshaheer/Finance-and-Supply-Chain-Analytics-using-SQL/blob/main/Forecast%20Accuracy%20Report.csv)_, to assess the efficiency and reliability of the company’s forecasting methods.
 
 
 
